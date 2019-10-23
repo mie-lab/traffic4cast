@@ -6,7 +6,7 @@ config = dict()
 # target_root = folder to store preprocessed data (preprocessing only done once)
 
 config['dataset'] = {}
-config['dataset']['source_root'] = '<Path to raw data root directoy>'
+config['dataset']['source_root'] = 'data_raw'
 config['dataset']['target_root'] = 'data'
 config['dataset']['reduce'] = True
 config['dataset']['return_features'] = False

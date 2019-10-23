@@ -1,6 +1,4 @@
 *.h5
 __pycache__
 .idea
-data/*
-submission/*
 *checkpoint.pt
