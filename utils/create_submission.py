@@ -181,7 +181,8 @@ class submission_writer:
         self.cities = cities
 
         if self.init_dir and os.path.exists(self.submission_root):
-            shutil.rmtree(self.submission_root, ignore_errors=True)
+            for city in cities:
+                shutil.rmtree(os.path.join(self.submission_root, city), ignore_errors=True)
         if self.init_dir:
             self._init_output_files(self.ds.target_root, self.submission_root, self.ds.split_type)
 
