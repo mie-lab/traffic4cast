@@ -1,5 +1,5 @@
 # Traffic4cast–Traffic Map Movie Forecasting
-by Team MIE-Lab: Henry Martin, Ye Hong, Dominik Bucher, Christian Rupprecht, René Buffat 
+by Team MIE-Lab: [Henry Martin](https://n.ethz.ch/~martinhe/), [Ye Hong](https://www.researchgate.net/profile/Ye_Hong9), [Dominik Bucher](http://dominikbucher.com/), [Christian Rupprecht](https://chrirupp.github.io/), [René Buffat](https://www.linkedin.com/in/ren%C3%A9-buffat-155398a0/?originalSubdomain=ch) 
 
 
 ## Howto
