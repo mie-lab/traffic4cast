@@ -19,3 +19,4 @@ Our documentation is now [available](https://arxiv.org/abs/1910.13824)!
 
 
 
+This work was extended in a master thesis. [code](https://github.com/karbogas/traffic4cast)
